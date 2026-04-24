@@ -1,0 +1,84 @@
+{
+  "name": "color guesser",
+  "short_name": "color guesser",
+  "id": "com.example.ColorGessr",
+  "description": "We will need to analyze all the colors and find the one that matches the instructions to increase our score and not die :)",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "cb9c4df6febfbfa01fdaa7b9c2f19b5d26b60662f5634f4250eecccf19a5d0f0-ios-icon-20.png.png",
+        "sizes": "20x20"
+      },{
+        "src": "bc699886b142bc29e434ae9d57b93ed9d1e23b60c5339f4161dec5e48d81bf51-ios-icon-29.png.png",
+        "sizes": "29x29"
+      },{
+        "src": "45f5653157560da1460f0beefc0bc32c2df64c8299f7ebb60b4b0bc9e3b4d5f6-android-icon-36.png.png",
+        "sizes": "36x36"
+      },{
+        "src": "0ad1d0da1a356aedb62e837c0e4f5a95e7850fdf89a9e776b92d153a47f8faf6-ios-icon-40.png.png",
+        "sizes": "40x40"
+      },{
+        "src": "416c8ec3c788f33b875d06277eff87b8210d6ef6b3be26bfd2e1c20a43968701-android-icon-48.png.png",
+        "sizes": "48x48"
+      },{
+        "src": "abe5847817a7c15c591543dd1994a9e00203ee9fae9f6bcb8ae367f9f572e1b2-ios-icon-50.png.png",
+        "sizes": "50x50"
+      },{
+        "src": "4a64116000890b00cccda635f8b1907011aa5f8dd4f7c48e7a1ba3007f995257-ios-icon-57.png.png",
+        "sizes": "57x57"
+      },{
+        "src": "80776e76928c42ec3246b88c73aa87ebb016b7e98b54f9c9245395680c4882f3-ios-icon-58.png.png",
+        "sizes": "58x58"
+      },{
+        "src": "5412aacd3c6745bc30cd93485c45b10645d3a03e1c56cba97a0a878535c52ae5-ios-icon-60.png.png",
+        "sizes": "60x60"
+      },{
+        "src": "1b0efe79bb197ed61d4ba9213701a1dfeeee6cacc36a0b364d2edebf19114526-android-icon-72.png.png",
+        "sizes": "72x72"
+      },{
+        "src": "e3aa5dd746ca09d2bd84c46b582201d6f8adb8858b6ec6a21424f919ac584f09-ios-icon-76.png.png",
+        "sizes": "76x76"
+      },{
+        "src": "3cd0a8b3b3f4aea484989100623cd8a2299a1c5a535cb44c0d5c4c4fbdaa20dd-ios-icon-80.png.png",
+        "sizes": "80x80"
+      },{
+        "src": "ec18f334642d64784f5f6265270a5b45c497f79373266cb8261b90f0d828b941-ios-icon-87.png.png",
+        "sizes": "87x87"
+      },{
+        "src": "be75f203d2d12f1887740d236a1cd216cc51633e97934530f27829659bc82d83-android-icon-96.png.png",
+        "sizes": "96x96"
+      },{
+        "src": "d772fc06fc42c23069dc0384134f22e0275a411513bbdb98d5bbbb80ca484deb-ios-icon-100.png.png",
+        "sizes": "100x100"
+      },{
+        "src": "ef920c99ac5b0e1d778d4723b8a881cb67e9e9b505da27f4a72b9d4b82b98c2d-ios-icon-114.png.png",
+        "sizes": "114x114"
+      },{
+        "src": "3c313d03fcf7c7f466be0fabf39d81c3e9d2d3a019f937dc14ea132539d0f2fd-ios-icon-120.png.png",
+        "sizes": "120x120"
+      },{
+        "src": "c67892617b884d93e327e3ba3316b3983d7e54f7f37bd34353e69a57bebb8075-android-icon-144.png.png",
+        "sizes": "144x144"
+      },{
+        "src": "3ec315150172021600c82413d8b3e68efa363ac2e8acb6c116975520ed945b46-ios-icon-152.png.png",
+        "sizes": "152x152"
+      },{
+        "src": "a2c626e2a0eea787ed7d8e38336ac27388bb84941b853d590c88155ca86c1daf-ios-icon-167.png.png",
+        "sizes": "167x167"
+      },{
+        "src": "b06a218024a496425830fefcb1efc1a35060ddc61e237e974441cb69cd08005c-ios-icon-180.png.png",
+        "sizes": "180x180"
+      },{
+        "src": "a6c6eed7365f346fd1ae625590808b70c45ce70e85443a9b20ddd9924f03b135-android-icon-192.png.png",
+        "sizes": "192x192"
+      },{
+        "src": "174f301c25aab5cf121aa1e9a1c2846733c98c7a34edb316145c5051e72a45f9-desktop-icon-512.png.png",
+        "sizes": "512x512"
+      },{
+        "src": "e1ba097c8ee8d4ee9cca7f4d47826f7c2a7053c40dcda2b5d67202ce0be49d25-ios-icon-1024.png.png",
+        "sizes": "1024x1024"
+      }]
+}
